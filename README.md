@@ -51,7 +51,7 @@ Disable debug mode in production, for example:
 ```python
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
-
+```
 
 ## Reporting Vulnerabilities
 Please email S10262458@connect.np.edu.sg
